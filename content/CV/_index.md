@@ -13,13 +13,17 @@ header:
 
  - **Teaching Assistant:** [Department of Methodology and Statistics, Faculty of Social Sciences, Utrecht University](https://www.uu.nl/en/organisation/methodology-and-statistics) 
  
+ This is what happens when i add text here. Test Test right behind.
+ 
+ Test Test in a new alnea. TESTTESTTETST!!!!!!!!!!!1111
+ 
     <span style="color: grey;">September 2019 - present.</span>
     
  - **Software Developer (Student Assistant):** [JASP, University of Amsterdam](https://jasp-stats.org/)
 
      <span style="color: grey;"> April - December, 2021.</span>
      
- - **Student Assistant:** [European Research Center of Migrat](https://www.ercomer.eu/)
+ - **Student Assistant:** [European Research Center on Migration and Ethnic Relations](https://www.ercomer.eu/)
 
    <span style="color: grey;"> Februari - May, 2020.</span>
    
@@ -59,7 +63,7 @@ header:
 
 # Volunteer work
 
-I contributed to several project aimed at fostering the integration of refugees into Dutch society, among others for the Dutch Refugee council. 
+I contributed to several project5 aimed at fostering the integration of refugees into Dutch society, among others for the Dutch Refugee council. 
 
 # Languages:
 
