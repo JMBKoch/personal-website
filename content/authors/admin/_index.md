@@ -31,10 +31,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Research Master: Methodology and Statistics
+  - course: Research Master Methodology and Statistics
     institution: Utrecht University
     year: 2020 - present
-  - course: Research Master: Migration, Ethnic Relations and Multiculturalism
+  - course: Research Master Migration, Ethnic Relations and Multiculturalism
     institution: Utrecht University
     year: 2018 - 2020
   - course: BSc. Psychology
