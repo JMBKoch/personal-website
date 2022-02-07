@@ -13,11 +13,10 @@ header:
 
  - **Teaching Assistant:** [Department of Methodology and Statistics, Faculty of Social Sciences, Utrecht University](https://www.uu.nl/en/organisation/methodology-and-statistics) 
  
- This is what happens when i add text here. Test Test right behind.
- 
- Test Test in a new alnea. TESTTESTTETST!!!!!!!!!!!1111
- 
     <span style="color: grey;">September 2019 - present.</span>
+    
+     This is what happens when i add text here. Test Test right behind.
+     Test Test in a new alnea. TESTTESTTETST!!!!!!!!!!!1111
     
  - **Software Developer (Student Assistant):** [JASP, University of Amsterdam](https://jasp-stats.org/)
 
@@ -50,12 +49,13 @@ header:
 
 # Techniqual Skills
  
- - Statistical Programming (R, C++)
- - Machine Learning (R, Python)
- - Software development (R, QML)
- - Bayesian model estimation (JAGS, STAN)
+ - Statistical Programming using R and C++
+ - Machine Learning using R and Python
+ - Software development using R and QML
+ - Bayesian model estimation (using JAGS and STAN
  - Feeling at home in the Command Line Interface
- - Bash scripting
+ - Version control using GIT
+ - Basic scripting using Bash
  - Linux (daily driver for more than 3 years)
  - Advanced typesetting using Markdown & LaTeX
  - Basic database management using SQL
