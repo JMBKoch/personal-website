@@ -24,7 +24,6 @@ header:
    <span style="color: grey;"> Februari - May, 2020.</span>
    
 
-
 # Education
 
  - **High School ("Abitur") ** Dietrich Boenhoeffer Gymnasium (2014)
@@ -60,7 +59,7 @@ header:
 
 # Volunteer work
 
-I contributed to several project aimed at fostering the integration of refugees into Dutch society, among other for the Dutch Refugee council. 
+I contributed to several project aimed at fostering the integration of refugees into Dutch society, among others for the Dutch Refugee council. 
 
 # Languages:
 
