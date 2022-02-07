@@ -29,7 +29,7 @@ header:
 
 # Education
 
- - **High School ("Abitur") ** Dietrich Boenhoeffer Gymnasium (2014)
+ - **High School ("Abitur")** Dietrich Boenhoeffer Gymnasium (2014)
  
      <span style="color: grey;">Eppelheim, Germany.</span>
      
@@ -63,7 +63,7 @@ header:
 
 # Volunteer work
 
-I contributed to several project5 aimed at fostering the integration of refugees into Dutch society, among others for the Dutch Refugee council. 
+I contributed to several projects aimed at fostering the integration of refugees into Dutch society, among others for the Dutch Refugee council. 
 
 # Languages:
 
