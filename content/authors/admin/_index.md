@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Johannes Michael Benjamin Koch (Michael)
+title: Johannes Michael Benjamin Koch 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Reserach Master Student Methodology and Statistics
+role: Research Master Student Methodology and Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
