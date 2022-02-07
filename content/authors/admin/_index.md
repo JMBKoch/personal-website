@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nikola Sekulovski
+title: Johannes Michael Benjamin Koch (Michael)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MSc Student Methodology and Statistics
+role: Reserach Master Student Methodology and Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,21 +17,29 @@ organizations:
 bio: ''
 # Interests to show in About widget
 interests:
-- Bayesian Statistics
-- Psychometrics
-- R programming
-- R Markdown
+- Statistics
+- Data Science
 - Machine Learning
+- Bayesian Statistics
+- Software Development 
+- Statistical Programming
+- R 
+- Science Communication 
+- Social Sciences
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Methodology and Statistics
-    institution: Utrecht University, The Netherlands
+  - course: Research Master: Methodology and Statistics
+    institution: Utrecht University
     year: 2020 - present
-  - course: BSc in Psychology
-    institution: Ss. Cyril and Methodius University, North Macedonia
-    year: 2015-2019
+  - course: Research Master: Migration, Ethnic Relations and Multiculturalism
+    institution: Utrecht University
+    year: 2018 - 2020
+  - course: BSc. Psychology
+    institution: Radboud University, Nijmegen, the Netherlands
+    year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,10 +48,10 @@ education:
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/sekulovskin
+  link: https://github.com/JMBKoch
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nikola-sekulovski-254507203
+  link: https://www.linkedin.com/in/michael-koch-887aa7158/
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -63,4 +71,6 @@ highlight_name: true
 ---
 
 
-My primary professional interests are in Bayesian Statistics (more specifically in Bayesian Hypothesis Testing), Psychometrics, R programming and Machine Learning or, even better, some combination of the four! I am a fan of a "common-ground" approach  regarding the polarization of Statistics in the form of: *"Frequentist vs Bayesian"* (even though Centrism, in general, isn't my cup of tea, I believe it might work when it comes to Statistics). You can see more of what I do on my GitHub profile or you can also read my CV. Feel free to contact me about any questions you might have regarding my research/work or if you are interested in future collaboration. I am open for consultations, teaching or just having a fun chat about statistics and data!
+I'm a social social scientist in the literal sense of the world. On the one hand, I have strong analytic mind which I like to use to question everything and get to the bottom of things. This explains my passion for the field of Statistics. At the same time, I love working together in a team and I experience it as particularly rewarding if my work has a tangible positive impact on people's life. I'm striving for a function within a diverse organization in which I can make full use these two sides of me. 
+
+Within the field of Statistics, my areas of expertise include, but are not limited to, Bayesian Statistics, Structural Equation Modeling, Machine Learning and Regularization. My strong soft skills make me a particularly suited candidate for a role in which the communication of statistical analyses to less technically versed members of the organization or stakeholders is central. 
