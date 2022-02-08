@@ -21,18 +21,18 @@ feature:
 - description: 90%
   name: Statistics
 - description: 20%
-  C++
+  name: C++
 - description: 30%
-  Python
+  name: Python
 - description: 30%
-  Bash
+  name: Bash
 - description: 40% 
-  SQL
+  name: SQL
 - description: 80%
   name: R Markdown
 - description: 50%
   name: LaTeX
-- description:90%
+- description: 90%
   name: Science communication
 - description: 90%
   name: Teaching
