@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Johannes Michael Benjamin Koch 
+title: Johannes Michael Benjamin Koch (Michael)
 
 # Is this the primary user of the site?
 superuser: true

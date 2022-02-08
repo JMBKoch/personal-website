@@ -18,8 +18,6 @@ subtitle:
 feature:
 - description: 90%
   name: R
-- description: 90%
-  name: Statistics
 - description: 20%
   name: C++
 - description: 30%
