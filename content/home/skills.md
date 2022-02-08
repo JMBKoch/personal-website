@@ -16,14 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 80%
+- description: 90%
   name: R
 - description: 90%
   name: Statistics
-- description: 60%
+- description: 20%
+  C++
+- description: 30%
+  Python
+- description: 30%
+  Bash
+- description: 40% 
+  SQL
+- description: 80%
   name: R Markdown
 - description: 50%
   name: LaTeX
+- description:90%
+  name: Science communication
+- description: 90%
+  name: Teaching
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
