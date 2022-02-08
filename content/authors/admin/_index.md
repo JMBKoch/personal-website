@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Johannes Michael Benjamin Koch (Michael)
+title: Johannes Michael Benjamin Koch 
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,4 +71,4 @@ highlight_name: true
 ---
 
 
-I'm a social social scientist in the literal sense of the world. On the one hand, I have a strong analytic mind which I use to critically question everything. This explains my passion for the field of Statistics. At the same time, I love working together in a team and I experience it as particularly rewarding if my work has a tangible positive impact on peoples' life. I'm striving for a function within a diverse organization in which I can make full use these two sides of me. Within the field of Statistics, my areas of expertise include, but are not limited to, Bayesian Statistics, Structural Equation Modeling, Machine Learning and Regularization. My strong soft skills make me a particularly suited candidate for a role in which the communication of statistical analyses to less technically versed audience is central. 
+I'm a social social scientist in the literal sense of the word. On the one hand, I have a strong analytic mind which I use to critically question everything. This explains my passion for the field of Statistics. At the same time, I love working together in a team and I experience it as particularly rewarding if my work has a tangible positive impact on peoples' life. I'm striving for a function within a diverse organization in which I can make full use these two sides of me. Within the field of Statistics, my areas of expertise include, but are not limited to, Bayesian Statistics, Structural Equation Modeling, Machine Learning and Regularization. My strong soft skills make me a particularly suited candidate for a role in which the communication of statistical analyses to less technically versed audience is central. 
