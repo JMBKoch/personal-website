@@ -52,7 +52,7 @@ header:
  
 # Education
 
- - **High School ("Abitur")** Dietrich Boenhoeffer Gymnasium (2014), Eppelheim, Germany.
+ - **High School ("Abitur")** Dietrich Boenhoeffer Gymnasium (2014), Eppelheim, Germany
      
  - **Bachelor's degree:** *Psychology*, Faculty of Social Sciences, Radboud University Nijmegen (2014 - 2018)
  
