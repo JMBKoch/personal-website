@@ -15,9 +15,9 @@ header:
  
     <span style="color: grey;">September 2019 - present.</span>
     
-     As a teaching assistant, I teach work groups and practicals in a variety of statistical courses for students in the social sciences. Passing on knowledge on statistics and research methodology to a less technically versed audience is a great passion of mine. 
-    
-    \
+     As a teaching assistant, I teach work groups and practicals in a variety of statistical courses for students in the social sciences. Passing on knowledge on statistics and research methodology to a less technically versed audience is a great passion of mine.  
+     
+     <br>
     
     
  - **Software Developer (Student Assistant):** [JASP, University of Amsterdam](https://jasp-stats.org/)
@@ -26,7 +26,7 @@ header:
      
      JASP is a free and open source statistical software package, aimed at making advanced statistical techniques accessible to a broad academic audience. I maintained the Structural Equation Modeling (SEM) module. Other tasks included writing [tutorials](https://jasp-stats.org/2022/01/25/measurement-invariance-testing-using-the-structural-equation-modeling-sem-module-in-jasp/) and answering user questions. 
      
-      \ 
+     <br>
        
  - **Student Assistant:** [European Research Center on Migration and Ethnic Relations](https://www.ercomer.eu/)
 
@@ -34,7 +34,7 @@ header:
    
      For a study on the role of emotions in right-wing extremist voting behavior, I conducted a systematic literature review. 
    
-     \
+    <br>
      
 # Techniqual Skills
  
