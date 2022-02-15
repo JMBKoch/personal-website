@@ -51,7 +51,7 @@ header:
 
    <span style="color: grey;"> February - June, 2020.</span>
    
-     For a study on cultural differences in non-verbal emotion expression, I analyzed facial expressions in video data, using the python-based facial emotion recognition software OpenFace.
+     For a study on cultural differences in non-verbal emotion expression, I analyzed facial expressions in video data, using the Python-based facial emotion recognition software OpenFace.
    
     <br>
 
