@@ -39,7 +39,7 @@ header:
 # Internships
 
 
- - **Research & Clinical Intern:** [University of Heidelberg, Department of general Psychiatry](https://www.klinikum.uni-heidelberg.de/en/center-for-psychosocial-medicine-zpm/department-of-general-psychiatry
+ - **Research & Clinical Intern:** [University of Heidelberg, Department of general Psychiatry](https://www.klinikum.uni-heidelberg.de/en/center-for-psychosocial-medicine-zpm/department-of-general-psychiatry)
 
    <span style="color: grey;"> July 2018.</span>
    
