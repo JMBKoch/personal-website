@@ -30,12 +30,31 @@ header:
        
  - **Student Assistant:** [European Research Center on Migration and Ethnic Relations](https://www.ercomer.eu/)
 
-   <span style="color: grey;"> Februari - May, 2020.</span>
+   <span style="color: grey;"> February - May, 2020.</span>
    
      For a study on the role of emotions in right-wing extremist voting behavior, I conducted a systematic literature review. 
    
     <br>
-     
+
+# Internships
+
+
+ - **Research & Clinical Intern:** [University of Heidelberg, Department of general Psychiatry](https://www.klinikum.uni-heidelberg.de/en/center-for-psychosocial-medicine-zpm/department-of-general-psychiatry
+
+   <span style="color: grey;"> July 2018.</span>
+   
+     During this short-term internship I witnessed, executed and documentented therapy sessions with refugees. On top of this, I collected both quantitaive and qualitative data for an intervention study on the effects of a mindfulness intervention on the reduction of trauma-related symptoms in refugees. 
+   
+    <br>
+
+ - **Research Intern:** [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/psychology/psychology.html)
+
+   <span style="color: grey;"> February - June, 2020.</span>
+   
+     For a study on cultural differences in non-verbal emotion expression, I analyzed facial expressions in video data, using the python-based facial emotion recognition software OpenFace.
+   
+    <br>
+
 # Techniqual Skills
  
  - Statistical Programming using R and C++
