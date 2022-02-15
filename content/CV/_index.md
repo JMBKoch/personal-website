@@ -43,7 +43,7 @@ header:
 
    <span style="color: grey;"> July 2018.</span>
    
-     During this short-term internship I witnessed, executed and documentented therapy sessions with refugees. On top of this, I collected both quantitaive and qualitative data for an intervention study on the effects of a mindfulness intervention on the reduction of trauma-related symptoms in refugees. 
+     During this short-term internship I witnessed, executed and documented therapy sessions with refugees. On top of this, I collected both quantitaive and qualitative data for an intervention study on the effects of a mindfulness intervention on the reduction of trauma-related symptoms in refugees. 
    
     <br>
 
