@@ -52,14 +52,16 @@ header:
  
 # Education
 
- - **High School ("Abitur")** Dietrich Boenhoeffer Gymnasium (2014), Eppelheim, Germany
-     
- - **Bachelor's degree:** *Psychology*, Faculty of Social Sciences, Radboud University Nijmegen (2014 - 2018)
- 
- - **Research Master's degree (cum laude):** *Migration, Ethnic Relations, and Multiculturalism*, Department of Interdisciplinary Social Sciences, Utrecht University (2018 - 2020)
-
  - **Research Master's degree:** *Methodology and Statistics*, Department of Methodology and Statistics, Utrecht University (2020 - present)
  
+ - **Research Master's degree (cum laude):** *Migration, Ethnic Relations, and Multiculturalism*, Department of Interdisciplinary Social Sciences, Utrecht University (2018 - 2020)
+ 
+  - **Bachelor's degree:** *Psychology*, Faculty of Social Sciences, Radboud University Nijmegen (2014 - 2018)
+
+ - **High School ("Abitur")** Dietrich Boenhoeffer Gymnasium (2014), Eppelheim, Germany
+     
+ 
+
 
 # Volunteer work
 
