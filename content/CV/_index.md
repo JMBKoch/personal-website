@@ -60,7 +60,7 @@ header:
  - Statistical Programming using R and C++
  - Machine Learning using R and Python
  - Software development using R and QML
- - Bayesian model estimation using JAGS and STAN
+ - Bayesian model estimation using STAN and JAGS
  - Feeling at home in the Command Line Interface
  - Version control using GIT
  - Basic scripting using Bash
